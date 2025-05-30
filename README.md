@@ -22,7 +22,7 @@ Using open data, spatial databases, and Python, I created a reproducible pipelin
 - Jupyter Notebook (full pipeline + visualization)
 - NYC Open Data
 
----
+
 
 ##  Data Sources
 
