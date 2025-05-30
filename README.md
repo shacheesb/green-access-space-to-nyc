@@ -31,16 +31,6 @@ Using open data, spatial databases, and Python, I created a reproducible pipelin
 - 🏞️ [NYC Parks Properties](https://data.cityofnewyork.us/Recreation/Parks-Properties/enfh-gkve)
 - 🗺️ [2020 NYC Neighborhood Tabulation Areas](https://data.cityofnewyork.us/City-Government/2020-Neighborhood-Tabulation-Areas-NTAs-/9nt8-h7nd)
 
----
-
-##  Final Map
-
-![Map of Park Access in NYC](maps/nyc_park_access.png)
-
-🟢 = Neighborhood has park access  
-🔴 = Neighborhood lacks a park within 500 meters
-
----
 
 ## 📊 Results
 
