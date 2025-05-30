@@ -3,7 +3,6 @@
 
 **An end-to-end geospatial data science project using PostGIS and Python to assess neighborhood-level access to public parks in New York City.**
 
----
 
 ##  Overview
 
@@ -15,7 +14,6 @@ Using open data, spatial databases, and Python, I created a reproducible pipelin
 - Visualize neighborhood accessibility using **GeoPandas** and **Matplotlib**
 - Quantify underserved areas
 
----
 
 ## Tools Used
 
