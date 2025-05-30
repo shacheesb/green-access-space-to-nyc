@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 Urban access to green space is a key indicator of community well-being, environmental equity, and livability. This project evaluates how many NYC neighborhoods are within walking distance (500 meters) of a public park.
 
@@ -17,7 +17,7 @@ Using open data, spatial databases, and Python, I created a reproducible pipelin
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - PostgreSQL + PostGIS (spatial SQL operations)
 - Python (GeoPandas, Matplotlib, SQLAlchemy, Psycopg2)
@@ -26,14 +26,14 @@ Using open data, spatial databases, and Python, I created a reproducible pipelin
 
 ---
 
-## 📍 Data Sources
+##  Data Sources
 
 - 🏞️ [NYC Parks Properties](https://data.cityofnewyork.us/Recreation/Parks-Properties/enfh-gkve)
 - 🗺️ [2020 NYC Neighborhood Tabulation Areas](https://data.cityofnewyork.us/City-Government/2020-Neighborhood-Tabulation-Areas-NTAs-/9nt8-h7nd)
 
 ---
 
-## 🗺️ Final Map
+##  Final Map
 
 ![Map of Park Access in NYC](maps/nyc_park_access.png)
 
